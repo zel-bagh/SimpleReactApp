@@ -1,0 +1,13 @@
+====== Whaat is React =======
+React is a front-end framework, it helps build front-end based applications with some more ease and some more features  on top of Js.
+The Idea of React and other most front-end frameworks is to break your code to different components, and then combine them to form the application.
+This makes working on large applications much easier.
+
+====== How to think with React ======
+
+1. Think of the application as a final product, what do you want the final product to look like.
+2. Break that final product into different pieces.
+3. Turn these pieces into components.
+4. Let's imagine a list of ingredients (components) for a sandwich (the final product), imperative programming will be if we tell how to
+   arrange these ingredients (components) to make the sandwich (the final product), declarative programming, which is the case in React,
+   we don't tell how to arrange these ingredients, u got the ingredients, make me the product!!
