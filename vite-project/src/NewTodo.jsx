@@ -12,7 +12,7 @@ function handleSubmit(e){
         {id: crypto.randomUUID(), title: newitem, completed: false},
     ]
   });
-
+  setnewitem("");
 }
 
 return (
